@@ -4,12 +4,12 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre style="position: relative;"><strong>Input:</strong> address = "1.1.1.1"
+<pre><strong>Input:</strong> address = "1.1.1.1"
 <strong>Output:</strong> "1[.]1[.]1[.]1"
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><p><strong class="example">Example 2:</strong></p>
-<pre style="position: relative;"><strong>Input:</strong> address = "255.100.50.0"
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> address = "255.100.50.0"
 <strong>Output:</strong> "255[.]100[.]50[.]0"
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
